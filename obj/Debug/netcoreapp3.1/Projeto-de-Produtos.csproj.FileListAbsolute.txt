@@ -1,0 +1,4 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Projeto Produtos\Projeto-de-Produtos\obj\Debug\netcoreapp3.1\Projeto-de-Produtos.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Projeto Produtos\Projeto-de-Produtos\obj\Debug\netcoreapp3.1\Projeto-de-Produtos.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Projeto Produtos\Projeto-de-Produtos\obj\Debug\netcoreapp3.1\Projeto-de-Produtos.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Projeto Produtos\Projeto-de-Produtos\obj\Debug\netcoreapp3.1\Projeto-de-Produtos.csproj.CoreCompileInputs.cache
